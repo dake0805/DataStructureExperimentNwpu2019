@@ -41,3 +41,4 @@ cmake-build-debug/CMakeFiles/DataStructureExperimentNwpu2019.dir/main.cpp.obj
 cmake-build-debug/CMakeFiles/DataStructureExperimentNwpu2019.dir/objects.a
 cmake-build-debug/CMakeFiles/DataStructureExperimentNwpu2019.dir/Solution.cpp.obj
 cmake-build-debug/DataStructureExperimentNwpu2019.exe
+*.obj
