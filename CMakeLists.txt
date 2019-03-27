@@ -3,4 +3,4 @@ project(DataStructureExperimentNwpu2019)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructureExperimentNwpu2019 Exercise1_LinkedList/main.cpp Exercise1_LinkedList/Solution.cpp Exercise1_LinkedList/Solution.h Exercise1_LinkedList/LeetCode23.cpp)
+add_executable(DataStructureExperimentNwpu2019 Exercise1_LinkedList/main.cpp Exercise1_LinkedList/Solution.cpp Exercise1_LinkedList/Solution.h Exercise1_LinkedList/LeetCode23.cpp Exercise1_LinkedList/Test1_1.cpp Exercise1_LinkedList/Test1_2.cpp)
