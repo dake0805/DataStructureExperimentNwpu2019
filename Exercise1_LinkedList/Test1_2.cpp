@@ -27,11 +27,21 @@ void test1_2()
 
     for (int i = 0; i < n; i++)         //从0开始 第i个柱子
     {
-        int left;
         /**
-         * 从第i个柱子向左找，找到
+         * 从第i个柱子向左找，找到所有大于等于array[i]的柱子
+         * 下一个循环向右找
+         * 这样就可以找到以i为中心 高度为array[i]的长方形的面积
+         * 然后与当前最大值max比较，循环结束找到最大值
+         * 时间复杂度为 O(n2)
          *
          */
+
+        //如果第i个柱子相邻的柱子高度相同，结果相同，可以跳过
+        int privous = 0;
+        if (privous == array[i])
+            continue;
+
+        int left;
         for (left = i - 1; left >= 0; left--)
         {
             if (array[left] < array[i])
@@ -45,6 +55,7 @@ void test1_2()
         }
         int tmp = (right - left - 1) * array[i];
         max = (max > tmp) ? max : tmp;
+        privous = array[i];
     }
     cout << max << endl;
     delete[] array;
