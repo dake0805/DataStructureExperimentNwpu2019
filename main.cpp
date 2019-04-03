@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//void RunApplication();
+void RunApplication();
 //
 //void Test1_1();
 //
@@ -18,19 +18,21 @@ using namespace std;
 
 int main()
 {
-    Queue queue;
-    for (int i = 0; i < 5; i++)
-    {
-        int x;
-        cin >> x;
-        queue.EnQueue(x);
-    }
-    cout << queue.GetHead() << "111" << endl;
-    int n = 10;
-    while (n--)
-    {
-        cout << queue.DeQueue() << endl;
-    }
+
+    RunApplication();
+//    Queue queue;
+//    for (int i = 0; i < 5; i++)
+//    {
+//        int x;
+//        cin >> x;
+//        queue.EnQueue(x);
+//    }
+//    cout << queue.GetHead() << "111" << endl;
+//    int n = 10;
+//    while (n--)
+//    {
+//        cout << queue.DeQueue() << endl;
+//    }
 
 
     //RunApplication();

@@ -134,6 +134,7 @@ void PrintList(List list)
     }
 }
 
+/*
 void RunApplication()
 {
     List lists[3] = {nullptr};
@@ -142,3 +143,4 @@ void RunApplication()
     lists[2] = InitLinkedList(4);
     PrintList(mergeKLists(lists, 3));
 }
+*/
