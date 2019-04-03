@@ -42,3 +42,9 @@ cmake-build-debug/CMakeFiles/DataStructureExperimentNwpu2019.dir/objects.a
 cmake-build-debug/CMakeFiles/DataStructureExperimentNwpu2019.dir/Solution.cpp.obj
 cmake-build-debug/DataStructureExperimentNwpu2019.exe
 *.obj
+*.cmake
+*.exe
+cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp
+cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c
+cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_CXX.bin
+cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin
