@@ -5,6 +5,8 @@
 using namespace std;
 
 void RunApplication();
+void RunApplication2();
+
 //
 //void Test1_1();
 //
@@ -19,7 +21,7 @@ void RunApplication();
 int main()
 {
 
-    RunApplication();
+    RunApplication2();
 //    Queue queue;
 //    for (int i = 0; i < 5; i++)
 //    {
