@@ -22,7 +22,9 @@ int main()
 //    cout << "test1 end" << endl;
 //    TestExample_Test2();
 //    cout << "test2 end" << endl;
-    cout << "Test1" << endl;
+    cout << "Test1_1" << endl;
+    RunTest1();
+    cout << "Test1_2" << endl;
     RunTest1();
     cout << "Test2" << endl;
     RunTest2();

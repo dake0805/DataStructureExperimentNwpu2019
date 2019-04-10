@@ -12,6 +12,11 @@ using namespace std;
    For example, given the list of temperatures T = [73, 74, 75, 71, 69, 72, 76, 73], your output should be [1, 1, 4, 2, 1, 1, 0, 0].
  * @param T 温度
  * @param n 温度数组的长度
+ *
+ * 通过递减栈 存温度数组的下标
+ * 当有当前元素大于栈顶元素时 出栈
+ * 通过两者下标相减算出结果
+ * 结果存在数组 result[] 里
  */
 //
 void test2_2(const int T[], int n)
