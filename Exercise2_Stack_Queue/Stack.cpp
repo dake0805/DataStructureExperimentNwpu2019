@@ -11,6 +11,12 @@ Stack::Stack()
     stackNode = nullptr;
 }
 
+Stack::~Stack()
+{
+    Stack::Clear();
+}
+
+
 void Stack::Push(int x)
 {
     StackNode *newNode = new StackNode(x);

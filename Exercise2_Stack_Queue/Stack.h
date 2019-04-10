@@ -7,7 +7,7 @@
 
 struct StackNode
 {
-    int data;
+    int data = 0;
     StackNode *next = nullptr;
 
     StackNode(int x)
@@ -22,6 +22,8 @@ private:
     StackNode *stackNode;
 public:
     Stack();
+
+    ~Stack();
 
     bool isEmpty();
 
