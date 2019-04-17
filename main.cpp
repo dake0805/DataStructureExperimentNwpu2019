@@ -6,8 +6,9 @@ using namespace std;
 
 int main()
 {
-//    LeetCode145 leetCode145;
-//    leetCode145.RunApplication();
-    LeetCode654 leetCode654;
-    leetCode654.RunApplication();
+
+//    LeetCode654 leetCode654;
+//    leetCode654.RunApplication();
+    LeetCode145 leetCode145;
+    leetCode145.RunApplication();
 }
