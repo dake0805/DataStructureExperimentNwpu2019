@@ -15,4 +15,4 @@ add_executable(DataStructureExperimentNwpu2019 main.cpp
         Exercise3_Tree/BinaryTree.cpp
         Exercise3_Tree/BinaryTree.h Exercise3_Tree/LeetCode145.cpp
         Exercise3_Tree/LeetCode145.h Exercise3_Tree/LeetCode654.cpp
-        Exercise3_Tree/LeetCode654.h)
+        Exercise3_Tree/LeetCode654.h Test3_Tree/TNode.cpp Test3_Tree/TNode.h Test3_Tree/Test3_1.cpp Test3_Tree/Test3_1.h)
