@@ -7,6 +7,7 @@
 
 #include <iostream>
 
+
 class TNode
 {
 public:
@@ -17,6 +18,8 @@ public:
     TNode();
 
     TNode(int x);
+
+
 };
 
 

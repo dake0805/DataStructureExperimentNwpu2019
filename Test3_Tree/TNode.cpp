@@ -4,6 +4,8 @@
 
 #include "TNode.h"
 
+using namespace std;
+
 TNode::TNode()
 {
     value = 0;
@@ -17,3 +19,4 @@ TNode::TNode(int x)
     leftSubT = nullptr;
     rightSubT = nullptr;
 }
+

@@ -12,14 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0f6e68-ecdb-4117-a176-6ee97649933a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test3_Tree/TNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test3_Tree/TNode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test3_Tree/Test3_1.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017302682_黄智洋_16点.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/TNode.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/TNode.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/TNode.h" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/TNode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/Test3_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/Test3_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/Test3_2.h" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/Test3_2.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test3_Tree/Test3_1.h" beforeDir="false" afterPath="$PROJECT_DIR$/Test3_Tree/Test3_1.h" afterDir="false" />
+>>>>>>> parent of 54a4710... 2
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,86 +39,179 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
+        <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="43">
+              <caret line="25" selection-start-line="25" selection-end-line="39" selection-end-column="1" />
+              <folding>
+                <element signature="e#38#61#0" expanded="true" />
+              </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+>>>>>>> parent of 54a4710... 2
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+=======
+        <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_1.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="e#140#159#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 54a4710... 2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1536">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+=======
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/Stack.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <folding>
+                <element signature="e#37#56#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 54a4710... 2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/Stack.h">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="168">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+=======
+            <state relative-caret-position="273">
+              <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+>>>>>>> parent of 54a4710... 2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1621">
+              <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+              <folding>
+                <element signature="e#38#56#0" expanded="true" />
+>>>>>>> parent of 54a4710... 2
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.h">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="240">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+=======
+            <state relative-caret-position="383">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="e#149#167#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 54a4710... 2
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+=======
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1896">
-              <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-              <folding>
-                <element signature="e#38#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode145.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="432">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+>>>>>>> parent of 54a4710... 2
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-712">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+=======
         <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="346">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+>>>>>>> parent of 54a4710... 2
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_2.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#147#165#0" expanded="true" />
+=======
         <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode145.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="117">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#147#170#0" expanded="true" />
+>>>>>>> parent of 54a4710... 2
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -124,9 +222,12 @@
     <findStrings>
       <find>ListNode *</find>
       <find>*</find>
+      <find>`</find>
+      <find>int</find>
     </findStrings>
     <replaceStrings>
       <replace>List</replace>
+      <replace>TNode*</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -160,19 +261,29 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Exercise3_Tree/LeetCode654.h" />
         <option value="$PROJECT_DIR$/Exercise3_Tree/LeetCode654.cpp" />
-        <option value="$PROJECT_DIR$/Test3_Tree/TNode.h" />
-        <option value="$PROJECT_DIR$/Test3_Tree/TNode.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Stack.cpp" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Stack.h" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Test3_1.h" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Test3_2.h" />
+        <option value="$PROJECT_DIR$/Test3_Tree/TNode.cpp" />
+        <option value="$PROJECT_DIR$/Test3_Tree/TNode.h" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" />
+        <option value="$PROJECT_DIR$/Test3_Tree/Test3_2.cpp" />
+=======
+        <option value="$PROJECT_DIR$/Test3_Tree/Test3_1.cpp" />
+>>>>>>> parent of 54a4710... 2
       </list>
     </option>
   </component>
-  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="-19" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,13 +301,12 @@
             <path>
               <item name="DataStructureExperimentNwpu2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructureExperimentNwpu2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Documents" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise2_Stack_Queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructureExperimentNwpu2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructureExperimentNwpu2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Documents" type="462c0819:PsiDirectoryNode" />
-              <item name="2019上" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise3_Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructureExperimentNwpu2019" type="b2602c69:ProjectViewProjectNode" />
@@ -265,12 +375,20 @@
       <workItem from="1555166373995" duration="50000" />
       <workItem from="1555420303318" duration="2456000" />
       <workItem from="1555481642148" duration="11163000" />
-      <workItem from="1557296081798" duration="1025000" />
+<<<<<<< HEAD
+      <workItem from="1557296081798" duration="9020000" />
+=======
+      <workItem from="1557296081798" duration="4338000" />
+>>>>>>> parent of 54a4710... 2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62064000" />
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="70059000" />
+=======
+    <option name="totallyTimeSpent" value="65377000" />
+>>>>>>> parent of 54a4710... 2
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,13 +403,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69405097" visible="true" weight="0.19463088" />
-      <window_info id="Structure" order="1" sideWeight="0.305949" side_tool="true" weight="0.20536913" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6921642" visible="true" weight="0.21073826" />
+      <window_info id="Structure" order="1" sideWeight="0.30783582" side_tool="true" visible="true" weight="0.21073826" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5906516" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2407932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35410765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -362,6 +480,11 @@
           <url>file://$PROJECT_DIR$/Exercise3_Tree/LeetCode654.cpp</url>
           <line>19</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -456,16 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_1.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding>
-            <element signature="e#140#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_1.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2712">
@@ -473,6 +586,8 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -500,6 +615,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> parent of 54a4710... 2
     <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode654.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -507,26 +623,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1896">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <element signature="e#38#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode145.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#147#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -541,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -555,21 +646,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.h">
+>>>>>>> parent of 54a4710... 2
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="346">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode145.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#140#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise2_Stack_Queue/Test2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1621">
+          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Stack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3_Tree/LeetCode145.cpp">
+=======
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.cpp">
+>>>>>>> parent of 54a4710... 2
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#149#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise3_Tree/BinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="25" selection-start-line="25" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <element signature="e#38#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+>>>>>>> parent of 54a4710... 2
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/TNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3_Tree/Test3_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
