@@ -1,9 +1,9 @@
-#include "Exercise4_Graph/LeetCode841.h"
-#include "Exercise4_Graph/LeetCode765.h"
+#include "Test4_Graph/Test4_2.h"
 
 using namespace std;
 
 int main()
 {
-    cout<<(2+2)%5<<endl;
+    Test4_2 test42;
+    test42.RunApplication2();
 }

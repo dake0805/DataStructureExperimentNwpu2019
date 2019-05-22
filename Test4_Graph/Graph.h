@@ -11,8 +11,8 @@ class Graph
 {
 public:
     vector<pair<pair<string, string>, int>> edges;
-    int edgeSum;
-    int nodeSum;
+    int edgeSum = 0;
+    int nodeSum = 0;
 
 };
 

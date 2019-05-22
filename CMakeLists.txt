@@ -22,4 +22,4 @@ add_executable(DataStructureExperimentNwpu2019 main.cpp
 #        Test3_Tree/Test3_1.cpp Test3_Tree/Test3_1.h
 #        Test3_Tree/Test3_2.h
 #        Test3_Tree/Test3_2.cpp
-         Exercise4_Graph/LeetCode841.cpp Exercise4_Graph/LeetCode841.h Exercise4_Graph/LeetCode765.cpp Exercise4_Graph/LeetCode765.h Test4_Graph/GraphNode.cpp Test4_Graph/GraphNode.h Test4_Graph/Graph.cpp Test4_Graph/Graph.h Test4_Graph/Test4_1.cpp Test4_Graph/Test4_1.h)
+         Exercise4_Graph/LeetCode841.cpp Exercise4_Graph/LeetCode841.h Exercise4_Graph/LeetCode765.cpp Exercise4_Graph/LeetCode765.h Test4_Graph/GraphNode.cpp Test4_Graph/GraphNode.h Test4_Graph/Graph.cpp Test4_Graph/Graph.h Test4_Graph/Test4_1.cpp Test4_Graph/Test4_1.h Test4_Graph/Test4_2.cpp Test4_Graph/Test4_2.h)
