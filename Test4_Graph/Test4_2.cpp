@@ -5,6 +5,11 @@
  * 第二部分 第四题
  */
 
+/**
+ * 思路：用 Floyd 算法计算到各点的距离
+ * 求出到所有其他点的最短距离集合，最后求最短距离中的最大值
+ */
+
 
 #include "Test4_2.h"
 
@@ -44,10 +49,12 @@ void Test4_2::getData()
 int Test4_2::networkDelay()
 {
     k--;
+    //输入节点从1开始计算，故减1
     vector<int> disK(n);
     for (int i = 0; i < n; i++)
     {
         disK[i] = 1000;
+        // 用1000标记为距离的最大值
     }
     disK[k] = 0;
     for (int i = 0; i < n; i++)

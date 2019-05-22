@@ -14,9 +14,19 @@ class Test4_1
 {
 private:
     int courseNum;
-    GraphNode *startNode;
+    Graph graph;
+    vector<int> result;
+
+    vector<int> record;
+
+    vector<vector<int>> pre;
+
 public:
-    vector<string> findOrder();
+    vector<int> findOrder();
+
+    bool dfs(int i);
+
+    void getData();
 
     void RunApplication1();
 };
