@@ -29,6 +29,12 @@ int Test5_2::minimumDiff(TreeNode *root)
 
 }
 
+
+/**
+ * 递归插入BST的节点
+ * @param root
+ * @param x
+ */
 void Test5_2::insertNode(TreeNode *&root, int x)
 {
     if (root == nullptr)
@@ -44,6 +50,10 @@ void Test5_2::insertNode(TreeNode *&root, int x)
     }
 }
 
+/**
+ * dfs遍历树，计算结果
+ * @param root
+ */
 void Test5_2::dfs(TreeNode *root)
 {
     if (root == nullptr)
