@@ -15,8 +15,12 @@ struct TreeNode
     TreeNode *left;
     TreeNode *right;
 
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr)
-    {}
+    TreeNode(int x)
+    {
+        val = x;
+        left = nullptr;
+        right = nullptr;
+    }
 };
 
 class Test5_2
@@ -26,7 +30,7 @@ public:
 
     int minimumDiff(TreeNode *root);
 
-    void insertNode(TreeNode *root, int val);
+    void insertNode(TreeNode *&root, int x);
 
     void dfs(TreeNode *root);
 

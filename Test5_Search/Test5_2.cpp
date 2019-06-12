@@ -9,7 +9,7 @@
 void Test5_2::RunTest2()
 {
 
-    TreeNode *tree;
+    TreeNode *tree = nullptr;
     int initVal;
     cout << "insert nodes, input -1 to end" << endl;
     while (true)
@@ -19,31 +19,40 @@ void Test5_2::RunTest2()
             break;
         insertNode(tree, initVal);
     }
-    minimumDiff(tree);
+    cout << minimumDiff(tree) << endl;
 }
 
 int Test5_2::minimumDiff(TreeNode *root)
 {
-
+    dfs(root);
+    return res;
 
 }
 
-void Test5_2::insertNode(TreeNode *root, int val)
+void Test5_2::insertNode(TreeNode *&root, int x)
 {
     if (root == nullptr)
-        root = new TreeNode(val);
+        root = new TreeNode(x);
     else if (root->val == x)
         return;
     else if (root->val > x)
     {
-        insertNode(root->left, val);
+        insertNode(root->left, x);
     } else if (root->val < x)
     {
-        insertNode(root->right, val);
+        insertNode(root->right, x);
     }
 }
 
 void Test5_2::dfs(TreeNode *root)
 {
-
+    if (root == nullptr)
+        return;
+    dfs(root->left);
+    if (pre != nullptr)
+    {
+        res = ((root->val - pre->val) < res) ? (root->val - pre->val) : res;
+    }
+    pre = root;
+    dfs(root->right);
 }
