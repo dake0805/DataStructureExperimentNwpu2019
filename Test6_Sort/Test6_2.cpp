@@ -14,14 +14,18 @@ void Test6_2::RunTest2()
     string *array;
     int initN;
     cin >> initN;
+    if (initN <= 0)
+        return;
     this->n = initN;
+
     array = new string[n];
     for (int i = 0; i < n; i++)
     {
-        string s;
+        int s;
         cin >> s;
-        array[i] = s;
+        array[i] = to_string(s);
     }
+
     cout << LargestNumber(array) << endl;
 }
 

@@ -14,6 +14,8 @@ void Test6_1::RunTest1()
 
     int initN;
     cin >> initN;
+    if (initN <= 0)
+        return;
     this->nums = initN;
     data *array = new data[initN];
     for (int i = 0; i < initN; i++)
@@ -21,8 +23,18 @@ void Test6_1::RunTest1()
         int initFirst;
         int initSecond;
         cin >> initFirst >> initSecond;
+        if (initFirst > initSecond)
+        {
+            cout << "error, first num should less than second num" << endl;
+            return;
+        }
         array[i].first = initFirst;
         array[i].second = initSecond;
+    }
+    if (nums == 1)
+    {
+        cout << "[" << array[0].first << "," << array[0].second << "]" << endl;
+        return;
     }
     merge(array);
 }

@@ -5,10 +5,11 @@ using namespace std;
 
 int main()
 {
-//    Test6_2 test62;
-//    test62.RunTest2();
     Test6_1 test61;
     test61.RunTest1();
     test61.RunTest1();
+    Test6_2 test62;
+    test62.RunTest2();
+
 
 }
