@@ -5,6 +5,7 @@
 #ifndef DATASTRUCTUREEXPERIMENTNWPU2019_TEST6_1_H
 #define DATASTRUCTUREEXPERIMENTNWPU2019_TEST6_1_H
 
+
 #include <iostream>
 
 using namespace std;
@@ -20,7 +21,20 @@ class Test6_1
 {
 private:
     data *array = nullptr;
-    
+    int nums = 0;       //number of arrays;
+
+    void qSortRecursion(data *&array, int start, int end);
+
+    void swap(data *&array, int i, int j);
+
+public:
+    void RunTest1();
+
+    void merge(data *array);
+
+    void qSort(data *&array, int n);
+
+
 };
 
 

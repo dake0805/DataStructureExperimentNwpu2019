@@ -1,8 +1,9 @@
-#include <iostream>
+#include "Test6_Sort/Test6_1.h"
 
 using namespace std;
 
 int main()
 {
-    cout << (2 + 3) % 5 << endl;
+    Test6_1 test61;
+    test61.RunTest1();
 }
