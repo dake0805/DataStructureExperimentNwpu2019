@@ -31,4 +31,5 @@ add_executable(DataStructureExperimentNwpu2019
         #        Exercise6_Sort/LeetCode164.cpp Exercise6_Sort/LeetCode164.h Test5_Search/Test5_1.cpp
         #        Test5_Search/Test5_1.h Test5_Search/Test5_2.cpp Test5_Search/Test5_2.h
         #        Exercise6_Sort/LeetCode23.cpp Exercise6_Sort/LeetCode23.h)
-        Test6_Sort/Test6_1.cpp Test6_Sort/Test6_1.h Test6_Sort/qSortForTest1.cpp Test6_Sort/qSortForTest1.h)
+        Test6_Sort/Test6_1.cpp Test6_Sort/Test6_1.h Test6_Sort/qSortForTest1.cpp
+        Test6_Sort/Test6_2.cpp Test6_Sort/Test6_2.h)

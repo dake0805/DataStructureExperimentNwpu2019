@@ -10,7 +10,7 @@ void Test6_1::RunTest1()
     int initN;
     cin >> initN;
     this->nums = initN;
-    this->array = new data[initN];
+    data *array = new data[initN];
     for (int i = 0; i < initN; i++)
     {
         int initFirst;
@@ -29,5 +29,16 @@ void Test6_1::merge(data *array)
 //    {
 //        cout << array[i].first << array[i].second << endl;
 //    }
-
+    for (int i = 0; i < nums - 1; i++)
+    {
+        if (array[i].second >= array[i + 1].first)
+        {
+            array[i + 1].first = array[i].first;
+            continue;
+        } else if (array[i].second < array[i + 1].first)
+        {
+            cout << "[" << array[i].first << "," << array[i].second << "] ";
+        }
+    }
+    cout << "[" << array[nums - 1].first << "," << array[nums - 1].second << "]" << endl;
 }

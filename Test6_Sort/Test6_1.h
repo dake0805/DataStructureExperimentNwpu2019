@@ -20,7 +20,7 @@ struct data
 class Test6_1
 {
 private:
-    data *array = nullptr;
+//    data *array = nullptr;
     int nums = 0;       //number of arrays;
 
     void qSortRecursion(data *&array, int start, int end);
