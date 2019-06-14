@@ -18,12 +18,10 @@ public:
 
     string LargestNumber(string *array);
 
-    void qSort2(int *&array, int start, int end);
+    void Sort2(string *&array, int n);
 
 private:
     int n;
-
-    void sort(int *&array, int i, int j);
 };
 
 

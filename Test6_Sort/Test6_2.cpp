@@ -1,7 +1,12 @@
 //
 // Created by zy on 6/14/2019.
 //
-
+/**
+ * 第二部分第五题
+ * 以string存储数据，对每两个元素满足 a+b>b+a 使a在b的前面
+ * string的大于号重载类似字典序，满足题目从高位到低位比较的条件
+ * 使用冒泡排序
+ */
 #include "Test6_2.h"
 
 void Test6_2::RunTest2()
@@ -17,44 +22,35 @@ void Test6_2::RunTest2()
         cin >> s;
         array[i] = s;
     }
-
+    cout << LargestNumber(array) << endl;
 }
 
 string Test6_2::LargestNumber(string *array)
 {
-
+    Sort2(array, n);
+    string result;
+    for (int i = 0; i < n; i++)
+        result += array[i];
+    return result;
 }
 
-void Test6_2::qSort2(string *&array, int start, int end)
+void Test6_2::Sort2(string *&array, int n)
 {
-
-    if (start >= end)
-        return;
-    int mid = array[end];
-    int left = start;
-    int right = end - 1;
-    while (left < right)
+    for (int i = 0; i < n - 1; i++)
     {
-        while (array[left] < mid && left < right)
+        bool flag = false;
+        for (int j = i + 1; j < n; j++)
         {
-            left++;
+            string t1 = array[i];
+            string t2 = array[j];
+            if (t1 + t2 < t2 + t1)
+            {
+                array[i] = t2;
+                array[j] = t1;
+                flag = true;
+            }
         }
-        while (array[right] >= mid && left < right)
-        {
-            right--;
-        }
-        swap(left, right);
+        if (!flag)
+            break;
     }
-    if (array[left] >= array[end])
-        swap(left, end);
-    else left++;
-    qSort2(array, start, left - 1);
-    qSort2(array, left + 1, end);
-}
-
-void Test6_2::sort(int *&array, int i, int j)
-{
-    int t = array[i];
-    array[i] = array[j];
-    array[j] = t;
 }
